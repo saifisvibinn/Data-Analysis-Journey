@@ -6,14 +6,14 @@ This repository contains collections of data analysis and machine learning proje
 ## Project List
 
 ### Data Analysis
-1. **Amazon Web Scraping:** Scrape and analyze mobile products details.
-2. **Coursera Web Scraping** – Scrape and analyze information about courses in Coursera.
-3. **Playstation.com Web Scraping** - Collection and analysis of game data from Playstation.com.
-4. **Properties in Egypt Analysis** - Analysis of real estate market trends in Egypt.
-
+1. **Amazon Web Scraping:**
+2. **Coursera Web Scraping**
+3. **Playstation.com Web Scraping**
+4. **Properties in Egypt Analysis**
 ### Machine Learning
-1. **Salary Prediction** - Salary prediction by using linear regression.
-2. **League of Legends Wins Prediction** - Logistic Regression and Decision Tree to predict game results.
+1. **Salary Prediction**
+2. **League of Legends Wins Prediction**
+3. **Dog Emotion Classifier**
 
 ## Technologies Implemented
 - Python
